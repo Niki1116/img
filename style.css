@@ -1,0 +1,17 @@
+#List
+{
+border:2px normal rgb(32, 159, 218);
+width: 350px;
+height: 300px;
+}
+#body
+{
+  background:rgb(44, 148, 70);
+  color:white;
+}
+#camera
+{
+border:2px dashed white;
+width: 350px;
+height: 300px;
+}
